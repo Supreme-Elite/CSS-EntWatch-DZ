@@ -23,19 +23,19 @@
 - -Allows you to eban a disconnected player
 
 ## List of Modules:
-***Chat**		- Responsible for displaying chat special messages to players
-***Debug**		- Helps to view the list of plugin variables
-***Eban**		- Allows you to prevent players from pickuping items
-***Extended logs**	- Logging all actions. Example pickup or use item and etc.
-***Forwards**	- Forwards to communicate with other plugins
-~~***Glow**		- Responsible for highlighting special items on the map~~
-***Hud**		- Responsible for displaying a list of items in the HUD
-***Menu**		- Responsible for the Admin Menu of the Entwatch
-***Natives**	- Natives to communicate with other plugins
-***Spawn Item**	- Responsible for the possibility for admins to spawn an item
-***Transfer**	- Responsible for transfer items to admins
-***Use Priority**	- Responsible for the use of items regardless of the crowd or camera position.
-***Offline Eban**	- Responsible for Eban a disconnected player
+ - **Chat** - Responsible for displaying chat special messages to players
+ - **Debug** - Helps to view the list of plugin variables
+ - **Eban** - Allows you to prevent players from pickuping items 
+ - **Extended logs** - Logging all actions. Example pickup or use item and etc.
+ - **Forwards** - Forwards to communicate with other plugins 
+ - **Glow** - Responsible for highlighting special items on the map~~ 
+ - **Hud** - Responsible for displaying a list of items in the HUD 
+ - **Menu** - Responsible for the Admin Menu of the Entwatch 
+ - **Natives** - Natives to communicate with other plugins 
+ - **Spawn Item** - Responsible for thepossibility for admins to spawn an item 
+ - **Transfer** - Responsible for transfer items to admins 
+ - **Use Priority** - Responsible for the use of items regardless of the crowd or camera position. 
+ - **Offline Eban** - Responsible for Eban a disconnected player
 
 ## Installation:
 1. Open with Notepad addons/sourcemod/scripting/entwatch_csgo_dz.sp and comment out or uncomment the corresponding modules
